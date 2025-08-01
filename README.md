@@ -13,6 +13,12 @@ Think of this as your **coding gym**, where each exercise pumps up your Python m
 ## 🧠 Topics Covered (growing daily!)
 
 
+| 🔍 Topic                  | 📂 Folder Name                | 🧩 Status   |
+|--------------------------|-------------------------------|-------------|
+| ✅ Basics                 | `01_basics`                   | Done        |
+| 🔡 Variables & Datatypes | `02_variables_and_datatypes` | Done        |
+| 🧵 Strings                | `03_strings`                  | In Progress |
+
 ## 👨‍💻 About Me
 
 Hi, I’m **Dishant Bhaskar Vaidya** — a Python learner leveling up through practice and curiosity.  
