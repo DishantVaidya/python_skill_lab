@@ -1,29 +1,47 @@
 # 🧪 python_skill_lab 🐍  
 
-## 📚 What's this lab about?
+## 📘 Overview  
 
-Welcome to **`python_skill_lab`** — a fun, nerdy vault of Python problems and projects 🔓🐍.  
-Think of this as your **coding gym**, where each exercise pumps up your Python muscles 💪.
+**`python_skill_lab`** is a structured, topic-wise collection of **Python practice problems, exercises, and mini-projects**.  
+It serves as a **hands-on coding lab** designed to strengthen Python fundamentals and problem-solving skills — from **beginner** to **intermediate** level.
 
-📁 **Topic-wise practice**  
-💡 **Handwritten logic + clean code**  
-🚀 **Beginner to Intermediate path**  
-🎯 **Internship & interview-ready focus**
+### 💡 Key Highlights  
+- 📁 **Organized by topic** for focused learning  
+- ✍️ **Clean, well-documented code**   
 
-## 🧠 Topics Covered (growing daily!)
+---
 
+## 🧠 Topics Covered  
 
-| 🔍 Topic                  | 📂 Folder Name                | 🧩 Status   |
-|--------------------------|-------------------------------|-------------|
-| ✅ Basics                 | `01_basics`                   | Done        |
-| 🔡 Variables & Datatypes | `02_variables_and_datatypes` | Done        |
-| 🧵 Strings                | `03_strings`                  | In Progress |
+| 🔍 Topic                   | 📂 Folder Name                  | 📈 Status       |
+|-----------------------------|----------------------------------|-----------------|
+| ✅ Basics                   | `01_Basics`                     | Completed       |
+| 🔡 Variables & Datatypes    | `02_Variables_and_Datatypes`    | Completed       |
+| 🧵 Strings                  | `03_Strings`                    | Completed     |
+| 🧮 Lists & Tuples           | `04_Lists_Tuple`                | Completed         |
+| 📚 Dictionaries             | `05_Dictionary`                 | Completed         |
+| 🧭 Control Statements       | `06_Control_statements`         | Completed         |
+| 🔁 Looping                  | `07_Looping`                    | Completed         |
+| ⚙️ Functions                | `08_Functions`                  | Completed         |
+| 🗂 Files                    | `09_Files`                      | Completed         |
+| 🧱 Classes & OOP            | `10_Classes`                    | Completed         |
+| 🧬 Inheritance              | `11_Inheritance`                | Completed         |
+| 💡 Advanced Python (Part 1) | `12_Adv_Python_1`               | Completed         |
+| ⚡ Advanced Python (Part 2) | `13_Adv_Python_2`               | Completed         |
 
-## 👨‍💻 About Me
+---
 
-Hi, I’m **Dishant Bhaskar Vaidya** — a Python learner leveling up through practice and curiosity.  
-🎓 BSc IT Student | 🧠 AI/ML enthusiast | 🛠️ IBM Python certified
+## 👨‍💻 About
 
-📬 [Email](mailto:dishantvaidya893@gmail.com) | 🔗 [GitHub](https://github.com/DishantVaidya) | 💼 [LinkedIn](https://www.linkedin.com/in/dishantvaidya)
+**Dishant Bhaskar Vaidya**  
+🎓 *B.Sc. IT Student* | 🧠 *AI/ML Enthusiast* |
 
-## 🚀 Let's code, break, fix, and master Python — one topic at a time!
+Driven by curiosity and consistency, I’m building strong programming foundations through hands-on learning and open sharing.  
+
+📧 [Email](mailto:dishantvaidya893@gmail.com) | 💻 [GitHub](https://github.com/DishantVaidya) | 🔗 [LinkedIn](https://www.linkedin.com/in/dishantvaidya)
+
+---
+
+## 🚀 Let’s Build Together  
+
+This repository is continuously evolving — adding new problems, topics, and clean code solutions.  
